@@ -1,0 +1,2 @@
+The project use a two microcontrollers ATmega328p. In the main folder, the main program is programated in the Master microcontroller. The folder denominated 'Slave' contains the second program that is programated in the slave micrcontroller .
+The required libraries are in the folder with the same name. 
